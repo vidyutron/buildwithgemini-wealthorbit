@@ -4,6 +4,24 @@
 
 ---
 
+## Live Demo & Interface Showcase
+
+![WealthOrbit Demo](demo/wealthorbit_demo.gif)
+
+> **Video**: Full recording available at [`demo/wealthorbit_demo.webm`](demo/wealthorbit_demo.webm)
+
+### Key Interface Screenshots
+
+| 1. Welcome & Household Context | 2. A2UI Allocation Cards & Progress Bars |
+| :---: | :---: |
+| ![Welcome Dashboard](demo/01_welcome_dashboard.png) | ![A2UI Allocation Card](demo/02_portfolio_allocation_card.png) |
+
+| 3. Live Gold & Multi-Currency FX Lookup | 4. Gemini Milestone Badge Generation |
+| :---: | :---: |
+| ![Live Gold & FX Tools](demo/03_live_gold_fx_tools.png) | ![Milestone Generation](demo/04_milestone_and_complete_dialogue.png) |
+
+---
+
 ## What the Agent Does
 
 WealthOrbit implements the following core capabilities wired to Google Cloud and external financial APIs:
