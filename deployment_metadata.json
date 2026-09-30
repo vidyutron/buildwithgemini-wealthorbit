@@ -1,0 +1,13 @@
+{
+  "remote_agent_runtime_id": "projects/91004390898/locations/us-central1/reasoningEngines/5804479662948089856",
+  "deployment_target": "agent_runtime",
+  "is_a2a": true,
+  "agent_directory": "app",
+  "deployment_timestamp": "2026-09-30T16:50:39.246649+00:00",
+  "project_id": "qwiklabs-gcp-03-c10839d3f1ce",
+  "project_number": "91004390898",
+  "location": "us-central1",
+  "agent_engine_resource_name": "projects/91004390898/locations/us-central1/reasoningEngines/2326574850711224320",
+  "memory_bank_id": "2326574850711224320",
+  "sandbox_resource_name": "projects/91004390898/locations/us-central1/reasoningEngines/2326574850711224320/sandboxEnvironments/9138002105783549952"
+}
